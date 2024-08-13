@@ -11,9 +11,13 @@ The purpose of this analysis is to leverage COVID-19 data to achieve the followi
 The Questions to be asked based on this analysis are:
 
 What was the total number of confirmed cases and deaths in the world?
+
 Which countries had the highest number of confirmed cases and Deaths across the world?
+
 At what rate did COVID-19 spread across all the continents in the world?
+
 How did Covid-19 affect countries based on population?
+
 How did Covid-19 spread trend from 2020 to 2023?
 
 Process Methodology
